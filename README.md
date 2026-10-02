@@ -62,14 +62,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sorendevelopments&theme=dark&hide_border=true&background=0a0a0a&ring=3B82F6&fire=3B82F6&currStreakLabel=cccccc" />
-</p>
-
----
-
 ## Connect
 
 <p align="center">

@@ -41,25 +41,25 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/sorendevelopments/hillvelocity">
-        <b>HillVelocity</b>
+      <a href="https://github.com/sorendevelopments">
+        <b>...</b>
       </a>
       <br />
-      <sub>High-performance Velocity proxy</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://sorendevelopments.github.io">
-        <b>Portfolio</b>
-      </a>
-      <br />
-      <sub>SorenDevelopment website & blog</sub>
+      <sub>...</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/sorendevelopments">
-        <b>MXAC</b>
+        <b>...</b>
       </a>
       <br />
-      <sub>Open source AntiCheat</sub>
+      <sub>...</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/sorendevelopments">
+        <b>...</b>
+      </a>
+      <br />
+      <sub>...</sub>
     </td>
   </tr>
 </table>

@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./icon.svg" width="180" alt="SorenDevelopment Logo" />
+<img src="./icon.png" width="120" alt="SorenDevelopment Logo" />
 
 # SorenDevelopment
 
-**Building modern software & Websites and solutions**
+**Building modern software & Apps and solutions**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Architecture;Minecraft+Plugin+Development;Full+Stack+Engineering;Backend+%26+API+Systems;Redis+%7C+MongoDB+%7C+PostgreSQL" />
 

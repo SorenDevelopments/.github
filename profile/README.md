@@ -41,25 +41,25 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/nyxonis/hillvelocity">
+      <a href="https://github.com/sorendevelopments/hillvelocity">
         <b>HillVelocity</b>
       </a>
       <br />
       <sub>High-performance Velocity proxy</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://nyxonis.github.io">
+      <a href="https://sorendevelopments.github.io">
         <b>Portfolio</b>
       </a>
       <br />
-      <sub>Personal website & blog</sub>
+      <sub>SorenDevelopment website & blog</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/sorendevelopments">
-        <b>SorenDevelopment</b>
+        <b>MXAC</b>
       </a>
       <br />
-      <sub>Open source organization</sub>
+      <sub>Open source AntiCheat</sub>
     </td>
   </tr>
 </table>
@@ -72,7 +72,7 @@
   <a href="https://github.com/sorendevelopments" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://nyxonis.github.io" target="_blank">
+  <a href="https://sorendevelopments.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=3B82F6" />
   </a>
   <a href="https://discord.gg/" target="_blank">
@@ -81,16 +81,16 @@
   <a href="https://t.me/Nyxonis" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@Nyxonis" target="_blank">
+  <a href="https://youtube.com/@SorenDevelopment_ir" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://evilstoreshop.ir/donate.php" target="_blank">
+  <a href="https://sorendev.ir/donate" target="_blank">
     <img src="https://img.shields.io/badge/Donate-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
   </a>
-  <a href="mailto:support@evilstoreshop.ir" target="_blank">
+  <a href="mailto:support@sorendev.ir" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://rubika.ir/Nyxonis" target="_blank">
+  <a href="https://rubika.ir/sorendevelopment" target="_blank">
     <img src="https://img.shields.io/badge/Rubika-00AEEF?style=for-the-badge&logo=rubika&logoColor=white" />
   </a>
 </p>

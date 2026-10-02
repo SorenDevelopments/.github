@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./icon.png" width="120" alt="SorenDevelopment Logo" />
+<img src="./icon.png" width="150" alt="SorenDevelopment Logo" />
 
 # SorenDevelopment
 

@@ -2,7 +2,6 @@
 
 <img src="./icon.png" width="200" alt="SorenDevelopment Logo" />
 
-# SorenDevelopment
 
 **Building modern software & Apps and solutions**
 

@@ -11,14 +11,19 @@
 
 ## Tech Stack
 
-### Languages & Frameworks
+### Languages 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,maven,python,fastapi,js,ts,nodejs,react,nextjs,php" />
+  <img src="https://skillicons.dev/icons?i=java,maven,python,fastapi,js,ts,nodejs,react,nextjs,php,kotlin" />
+</p>
+
+### Frameworks & Runtimes
+<p>
+  <img src="https://skillicons.dev/icons?i=maven,gradle,spring,fastapi,nodejs,express,nestjs,react,nextjs,vue,nuxt,svelte,tailwind,bootstrap" />
 </p>
 
 ### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,git,docker,linux,postman,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,sqlite,git,docker,linux,postman,idea,vscode" />
 </p>
 
 ### Minecraft Development

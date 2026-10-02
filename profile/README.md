@@ -78,7 +78,7 @@
   <a href="https://discord.gg/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://t.me/Nyxonis" target="_blank">
+  <a href="https://t.me/SorenDevelopment_ir" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://youtube.com/@SorenDevelopment_ir" target="_blank">
